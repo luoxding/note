@@ -9,7 +9,7 @@
 
 ## archlinux install
 
-```bash
+```shell
 sudo pacman -S filezilla
 sudo pacman -S docker
 sudo pacman -S texlive-most
